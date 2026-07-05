@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { IoLogoWhatsapp, IoCheckmarkCircle } from "react-icons/io5";
-import { MdVerified, MdSupportAgent, MdLocalShipping } from "react-icons/md";
+import { MdVerified, MdLocalShipping } from "react-icons/md";
 import { RiShieldCheckLine } from "react-icons/ri";
 import { BsCurrencyDollar, BsLightningChargeFill } from "react-icons/bs";
 import { FaHandshake } from "react-icons/fa";
