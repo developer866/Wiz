@@ -23,7 +23,7 @@ export default function Contact() {
     const msg = encodeURIComponent(
       `Hello Wiz! 👋\n\nName: ${form.name}\nPhone: ${form.phone}\nSubject: ${form.subject || "General Enquiry"}\n\nMessage:\n${form.message}`
     );
-   window.open(`https://wa.me/2349135806740?text=${msg}`, "_blank")
+   window.open(`https://wa.me/2349033383479?text=${msg}`, "_blank")
   };
 
   const inputStyle = {
