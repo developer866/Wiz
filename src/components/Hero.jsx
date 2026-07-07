@@ -70,7 +70,7 @@ export default function Hero() {
               Shop Now <HiArrowRight size={16} />
             </Link>
             <a
-               href="https://wa.me/0913506740"
+               href="https://wa.me/234913506740"
               target="_blank"
               rel="noopener noreferrer"
               style={{
