@@ -46,8 +46,8 @@ export default function Contact() {
     {
       icon: <MdEmail size={24} color="#2563EB" />,
       title: "Email",
-      value: "hello@wizphones.com",
-      link: "mailto:hello@wizphones.com",
+      value: "wiz@wizphones.com",
+      link: "mailto:wiz@wizphones.com",
       color: "#2563EB",
     },
     {
