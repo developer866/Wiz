@@ -31,7 +31,7 @@ export default function Footer() {
             {/* Social icons */}
             <div style={{ display: "flex", gap: 14, marginTop: 20 }}>
               {[
-                { icon: <IoLogoWhatsapp size={20} />, link: "https://wa.me/234913506740", color: "#25D366" },
+                { icon: <IoLogoWhatsapp size={20} />, link: "https://wa.me/message/CXQBSBY4CHUWC1", color: "#25D366" },
                 { icon: <IoLogoInstagram size={20} />, link: "#", color: "#E1306C" },
                 { icon: <IoLogoTwitter size={20} />, link: "#", color: "#1DA1F2" },
                 { icon: <IoLogoFacebook size={20} />, link: "#", color: "#1877F2" },
@@ -94,7 +94,7 @@ export default function Footer() {
             </h4>
             <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
               <a
-                href="https://wa.me/234913506740"
+                href="https://wa.me/message/CXQBSBY4CHUWC1"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{

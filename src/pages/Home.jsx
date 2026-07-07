@@ -159,7 +159,7 @@ export default function Home() {
             Chat with us on WhatsApp and we'll help you find the perfect device.
           </p>
           <a
-            href="https://wa.me/0913506740"
+            href="https://wa.me/message/CXQBSBY4CHUWC1"
             target="_blank"
             rel="noopener noreferrer"
             style={{

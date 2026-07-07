@@ -48,7 +48,7 @@ export default function Navbar() {
         </div>
 
         <a
-           href="https://wa.me/0913506740"
+          href="https://wa.me/message/CXQBSBY4CHUWC1"
           target="_blank"
           rel="noopener noreferrer"
           className="desktop-nav"
@@ -100,7 +100,7 @@ export default function Navbar() {
             </Link>
           ))}
           <a
-            href="https://wa.me/0913506740"
+           href="https://wa.me/message/CXQBSBY4CHUWC1"
             target="_blank"
             rel="noopener noreferrer"
             style={{

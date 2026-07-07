@@ -23,7 +23,7 @@ export default function Contact() {
     const msg = encodeURIComponent(
       `Hello Wiz! 👋\n\nName: ${form.name}\nPhone: ${form.phone}\nSubject: ${form.subject || "General Enquiry"}\n\nMessage:\n${form.message}`
     );
-    window.open(`https://wa.me/2348000000000?text=${msg}`, "_blank");
+   window.open(`https://wa.me/2349135806740?text=${msg}`, "_blank")
   };
 
   const inputStyle = {
@@ -40,7 +40,7 @@ export default function Contact() {
       icon: <IoLogoWhatsapp size={24} color="#25D366" />,
       title: "WhatsApp",
       value: "+234 913 506 740",
-      link: "https://wa.me/0913506740",
+      link: "https://wa.me/message/CXQBSBY4CHUWC1",
       color: "#25D366",
     },
     {
@@ -161,7 +161,7 @@ export default function Contact() {
 
             {/* Direct WhatsApp CTA */}
             <a
-             href="https://wa.me/0913506740"
+              href="https://wa.me/message/CXQBSBY4CHUWC1"
               target="_blank"
               rel="noopener noreferrer"
               style={{
