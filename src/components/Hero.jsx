@@ -37,7 +37,7 @@ export default function Hero() {
             display: "inline-flex", alignItems: "center",
             gap: 6, marginBottom: 20,
           }}>
-            <BsPhone size={13} /> New & Fairly Used Phones
+            <BsPhone size={13} /> New & Fairly Used Gadgets
           </span>
           <h1 style={{
             fontFamily: "'Space Grotesk', sans-serif",
@@ -45,7 +45,7 @@ export default function Hero() {
             fontWeight: 800, color: "#111827",
             lineHeight: 1.1, marginBottom: 20,
           }}>
-            Your Next Phone<br />
+            Your Next Gadget<br />
             <span style={{ color: "#2563EB" }}>Starts Here.</span>
           </h1>
           <p style={{
@@ -70,7 +70,7 @@ export default function Hero() {
               Shop Now <HiArrowRight size={16} />
             </Link>
             <a
-              href="https://wa.me/2348000000000"
+               href="https://wa.me/0913506740"
               target="_blank"
               rel="noopener noreferrer"
               style={{
@@ -90,7 +90,7 @@ export default function Hero() {
 
           {/* Stats */}
           <div style={{
-            display: "flex", gap: 40, marginTop: 48, flexWrap: "wrap",
+            display: "flex", gap: 30, marginTop: 48, flexWrap: "wrap",
           }}>
             {[
               { value: "500+", label: "Phones Sold", icon: <BsPhone size={18} /> },

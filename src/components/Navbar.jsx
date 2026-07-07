@@ -48,7 +48,7 @@ export default function Navbar() {
         </div>
 
         <a
-          href="https://wa.me/2348000000000"
+           href="https://wa.me/0913506740"
           target="_blank"
           rel="noopener noreferrer"
           className="desktop-nav"
@@ -80,7 +80,7 @@ export default function Navbar() {
 
       {menuOpen && (
         <div style={{
-          padding: "16px 5% 24px",
+          padding: "20px 5% 24px",
           borderTop: "1px solid #E5E7EB",
           display: "flex", flexDirection: "column", gap: 16,
         }}>
@@ -91,6 +91,7 @@ export default function Navbar() {
               onClick={() => setMenuOpen(false)}
               style={{
                 fontSize: 16, fontWeight: 500,
+                padding:6,
                 color: location.pathname === link.path ? "#2563EB" : "#374151",
                 textDecoration: "none",
               }}
@@ -99,7 +100,7 @@ export default function Navbar() {
             </Link>
           ))}
           <a
-            href="https://wa.me/2348000000000"
+            href="https://wa.me/0913506740"
             target="_blank"
             rel="noopener noreferrer"
             style={{

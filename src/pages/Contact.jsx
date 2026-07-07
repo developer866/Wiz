@@ -39,8 +39,8 @@ export default function Contact() {
     {
       icon: <IoLogoWhatsapp size={24} color="#25D366" />,
       title: "WhatsApp",
-      value: "+234 800 000 0000",
-      link: "https://wa.me/2348000000000",
+      value: "+234 913 506 740",
+      link: "https://wa.me/0913506740",
       color: "#25D366",
     },
     {
@@ -161,7 +161,7 @@ export default function Contact() {
 
             {/* Direct WhatsApp CTA */}
             <a
-              href="https://wa.me/2348000000000"
+             href="https://wa.me/0913506740"
               target="_blank"
               rel="noopener noreferrer"
               style={{

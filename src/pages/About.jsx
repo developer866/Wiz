@@ -219,7 +219,7 @@ export default function About() {
             Shop Now
           </Link>
           <a
-            href="https://wa.me/2348000000000"
+            href="https://wa.me/0913506740"
             target="_blank"
             rel="noopener noreferrer"
             style={{
