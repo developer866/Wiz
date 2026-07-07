@@ -177,7 +177,7 @@ export default function ProductDetail() {
 
             {/* CTA */}
             <a
-              href={`https://wa.me/2349033383479?text=${whatsappMsg}`}
+              href={`https://wa.me/2349135806740?text=${whatsappMsg}`}
               target="_blank"
               rel="noopener noreferrer"
               style={{
